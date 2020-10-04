@@ -5,7 +5,7 @@ dependencies:
   flutter:
     sdk: flutter
   path_provider: ^1.6.18
-  file: ^5.2.1
+  file: ">=5.1.0 <7.0.0"
 
 
 dev_dependencies:
