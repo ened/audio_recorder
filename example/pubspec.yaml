@@ -4,8 +4,8 @@ description: Demonstrates how to use the audio_recorder plugin.
 dependencies:
   flutter:
     sdk: flutter
-  path_provider: ^1.6.10
-  file: ^5.1.0
+  path_provider: ^1.6.18
+  file: ^5.2.1
 
 
 dev_dependencies:
